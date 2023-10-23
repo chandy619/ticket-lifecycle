@@ -39,7 +39,7 @@ Continuing from the previous lab, I have created a few tickets by the User accou
 <img width="960" alt="image" src="https://github.com/chandy619/ticket-lifecycle/assets/144288806/f2822d2d-3da6-4e5e-814f-b95bd1d9626d">
 </p>
 <p>
-Now, logged in as an Agent, you get a view of how Help Desk/ IT Support tickets come in and get worked. System Administrators have the ability to (re)assign tickets to appropriate Teams and Agents as well as upgrade or downgrade sriorityeverity levels to ensure SLAs are met.
+Now, logged in as an Agent, you get a view of how Help Desk/ IT Support tickets come in and get worked. System Administrators have the ability to (re)assign tickets to appropriate Teams and Agents as well as upgrade or downgrade priority levels to ensure SLAs are met.
 </p>
 <br />
 
